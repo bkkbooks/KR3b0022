@@ -1,0 +1,193 @@
+canonical_identifier: bkk:krp/KR3b0022/v1
+canonical_location: https://kanripo.org/bkk/KR3b0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 十一家註孫子
+  identifiers:
+    krp: KR3b0022
+  tags:
+    kr-categories: KR3b
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0022.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3b0022_001.yaml, hash: 'sha256:d415509164851361a4d8535fb396bcc370b06cbf6532de019e4af16e3195b59c'}
+  - {seq: 2, filename: KR3b0022_002.yaml, hash: 'sha256:983753563cd2ed17774dfe7e3572b80eba029bd40b394d2255ccd35cdde96f71'}
+  - {seq: 3, filename: KR3b0022_003.yaml, hash: 'sha256:ba799a1e0703ab36ec41c74ef20996efca16061ddeef7a1c1e2b819d719ca161'}
+  - {seq: 4, filename: KR3b0022_004.yaml, hash: 'sha256:3638ba62e29f379e60291040b201de5c006bd41523e7462e316bd7031a985734'}
+  - {seq: 5, filename: KR3b0022_005.yaml, hash: 'sha256:54ebca9130fd27ee15af6859ae1af86d24b516bc67ae59d7e02fbb0faf44fa9f'}
+  - {seq: 6, filename: KR3b0022_006.yaml, hash: 'sha256:98869eea8e60f2160dc6ae9cdf91bf0f2c0b91d84ab88850bdf828759c05a04f'}
+  - {seq: 7, filename: KR3b0022_007.yaml, hash: 'sha256:78a970984bb5a6e4a06f66995cc1158c891a85393ff84eb535dce284075e6ca4'}
+  - {seq: 8, filename: KR3b0022_008.yaml, hash: 'sha256:8655dbffb601ae5fb47ce5ce47207fb9b6d97042a70d75c32ed19ba50b43f77c'}
+  - {seq: 9, filename: KR3b0022_009.yaml, hash: 'sha256:ae805d9b16ac6254c7c19553302998fafd61c490ca80f464a27913f9d62dd60f'}
+  - {seq: 10, filename: KR3b0022_010.yaml, hash: 'sha256:3d313ea41f44c76ba7fc175566e2260e8c8ba8570cb9284385f9e56e53e94f73'}
+  - {seq: 11, filename: KR3b0022_011.yaml, hash: 'sha256:1b6754ea791bb2d87ec6af9e76248161e1a4689b6ca01ce02d2d00954a3d3777'}
+  - {seq: 12, filename: KR3b0022_012.yaml, hash: 'sha256:ddeaf7fb2c04f125b5d90173d06d07a2731f517500758a17318d18edb69e862c'}
+  - {seq: 13, filename: KR3b0022_013.yaml, hash: 'sha256:f47e26b964e4048a03fc5d5993c41967c6cfe6fcd57587c2dc9a3f48e6f14194'}
+  - {seq: 14, filename: KR3b0022_014.yaml, hash: 'sha256:3ce27bb29f5fff7349a7e0307c2b82a200fb3c3b8f6208284b94f8d0eeef3672'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3b0022_001.markers.yaml, hash: 'sha256:4998fdf47a0400df0c1f106afb0726d2fd782eadb5f7ecf8b13772f0a47f1d87'}
+  - {seq: 2, role: markers, filename: assets/KR3b0022_002.markers.yaml, hash: 'sha256:bd5a82eb1b227ceee05eb92972dd84762586b117fcddf8cf17f984760a7185e8'}
+  - {seq: 3, role: markers, filename: assets/KR3b0022_003.markers.yaml, hash: 'sha256:e5e25fd640e2ef99ad94fb7093436ed4d1084f0ce22e222689d481e0b67e71b8'}
+  - {seq: 4, role: markers, filename: assets/KR3b0022_004.markers.yaml, hash: 'sha256:ce9bf4dae338319dc0e52692b71713d470248121ce8114d2d1c53c5917847751'}
+  - {seq: 5, role: markers, filename: assets/KR3b0022_005.markers.yaml, hash: 'sha256:10ed333920516c530fa45025570c63cbc03e2476db3bad23ad0b0faa064cfce1'}
+  - {seq: 6, role: markers, filename: assets/KR3b0022_006.markers.yaml, hash: 'sha256:3bad55020670720e5df6fc0e8fd26a32ee9ea36bb730f653347a2801b7c1169a'}
+  - {seq: 7, role: markers, filename: assets/KR3b0022_007.markers.yaml, hash: 'sha256:c144df11774bc96ca55eec15ca7a3874abe7b74d25e63d0f193bfac329584515'}
+  - {seq: 8, role: markers, filename: assets/KR3b0022_008.markers.yaml, hash: 'sha256:cefb8c3f27193b92c522c8c079c114682fef7ade454177f4fe2034cdec10487f'}
+  - {seq: 9, role: markers, filename: assets/KR3b0022_009.markers.yaml, hash: 'sha256:b875a06cca140e24ecb859858a270d1d188df51a0450ac8598548b704e5cc6b0'}
+  - {seq: 10, role: markers, filename: assets/KR3b0022_010.markers.yaml, hash: 'sha256:8e80699454cf212e1eeceeaed150216711052553d9fe89afaa27fb4561fae39b'}
+  - {seq: 11, role: markers, filename: assets/KR3b0022_011.markers.yaml, hash: 'sha256:1a9667b13af52234fd29c335dde24fd6c3206a8a45b89c165ee46ba2b4b1ee01'}
+  - {seq: 12, role: markers, filename: assets/KR3b0022_012.markers.yaml, hash: 'sha256:a2430c7d63fede9141ce74bab6a838f2879da3e16e4701e463c7adf7630e3753'}
+  - {seq: 13, role: markers, filename: assets/KR3b0022_013.markers.yaml, hash: 'sha256:d4dab4e45e4d69f3bfe3dc4176620aef21c63a0e5ffbe60ad9e6a342b69dc581'}
+  - {seq: 14, role: markers, filename: assets/KR3b0022_014.markers.yaml, hash: 'sha256:c002af1d9b800b999e7f5ce721fe2e466582d8dba7d17aebfe18f788a1ca4e4c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3b0022_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 696
+  label: 計篇
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3b0022_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 421
+  label: 作戰篇
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3b0022_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 597
+  label: 謀攻篇
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3b0022_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 349
+  label: 形篇
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3b0022_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 415
+  label: 勢篇
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3b0022_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 790
+  label: 虛實篇
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3b0022_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 581
+  label: 軍爭篇
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3b0022_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 350
+  label: 九變篇
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3b0022_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 618
+  label: 行軍篇
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3b0022_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 638
+  label: 武經七書本行軍篇
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3b0022_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 635
+  label: 地形篇
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3b0022_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 1192
+  label: 九地篇
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3b0022_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 286
+  label: 火攻篇
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3b0022_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 492
+  label: 用間篇
+  type: section
+  level: 1
+hash: sha256:d828232090830fee22f5baeef4ba573def6dacd7618bfe40c01dc315fd07b12b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
